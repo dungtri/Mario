@@ -23,7 +23,7 @@
         "grunt-contrib-cssmin": "~0.13.X",
         "grunt-contrib-htmlmin": "~0.4.X",
         "grunt-contrib-uglify": "~0.8.X",
-        "grunt-mocha-phantomjs": "~2.X",
+        "grunt-mocha-phantomjs": "~4.X",
         "grunt-processhtml": "~0.3.X",
         "grunt-preprocess": "~5.X",
         "grunt-tslint": "~2.4.X",
